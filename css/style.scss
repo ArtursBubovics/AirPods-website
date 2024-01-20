@@ -2,6 +2,11 @@ html {
     box-sizing: border-box; // изучить
 }
 
+/*Убрать полосу прокрутки для всей страницы*/
+::-webkit-scrollbar {
+    width: 0;
+  }
+
 *,
 *::before,
 *::after {
