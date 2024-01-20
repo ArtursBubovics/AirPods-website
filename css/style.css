@@ -270,7 +270,7 @@ body {
   flex-wrap: wrap;
 }
 
-@media (max-width: 1469px) {
+@media (max-width: 1520px) {
   .header__content-images img {
     max-width: 100%;
   }
