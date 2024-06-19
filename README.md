@@ -57,72 +57,72 @@ This is a project for my website spit training. This project is deployed and you
 
 ## 🖥️ <a name="demo">Demo</a> 
 
-   ### Login 
+   ### Main
    
    <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Login.png" alt="Login"/>
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/1_screen.PNG" alt="Main"/>
    </kbd>
 
    <br>
    <br>
    <br>
 
-   ### Sign up 
+   ### Types of headphones
    
    <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Sign_up.png" alt="Sign Up"/>
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/2_screen.PNG" alt="Types of headphones"/>
    </kbd> 
    
    <br>
    <br>
    <br>
 
-   ### To Do List
+   ### Headphone description
    
    <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Main_to_do_list.png" alt="To Do List"/>
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/3_screen.PNG" alt="Headphone description"/>
    </kbd>
    
    <br>
    <br>
    <br>
 
-   ### Profile 
-     
-   <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Main_profile.PNG" alt="Profile"/>
-   </kbd>  
-   
-   <br>
-   <br>
-   <br>
-
-   ### Left Menu
+   ### Headphone battery description
    
    <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Main_slide_left_menu.PNG" alt="Left Menu"/>
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/4_screen.PNG" alt="Headphone battery description"/>
    </kbd> 
    
    <br>
    <br>
    <br>
 
-   ### Archive
+   ### Noise reduction
    
    <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Main_archivePNG.PNG" alt="Archive"/>
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/5_screen.PNG" alt="Noise reduction"/>
    </kbd>  
    
    <br>
    <br>
    <br>
 
-   ### Notification
+   ### Additional description of the headphones
    
    <kbd> 
-      <img src="https://github.com/ArtursBubovics/ToDoList-NewTechnology/blob/main/images/Main_notifications.PNG" alt="Notification"/>
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/6_screen.PNG" alt="Additional description of the headphones"/>
    </kbd>  
 
+   <br>
+   <br>
+   <br>
+
+   ### Footer
+   
+   <kbd> 
+      <img src="https://github.com/ArtursBubovics/AirPods-website/blob/main/images/7_screen.PNG" alt="Footer"/>
+   </kbd>  
+   
    <br>
    <br>
    <br>
